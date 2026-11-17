@@ -29,7 +29,8 @@ This repository contains **only the results**, the figures and the life cycle in
 
 The footprints were calculated with the **ecoinvent** database. The ecoinvent license does not permit publishing these footprints in a form that would allow the underlying ecoinvent datasets (processes) to be traced back or recalculated. They can therefore not be made publicly available.
 
-**Requests for the underlying data should be sent to the corresponding author:**
+**Requests for the underlying data** can be sent to the corresponding author. Data can only be shared in compliance with the ecoinvent licence terms, i.e. not in a form that discloses or allows the recalculation of ecoinvent datasets. Sharing may therefore require that the requesting party holds a valid ecoinvent licence.
+
 
 Jan-Luis Dietz, Wuppertal Institute for Climate, Environment and Energy — jan-luis.dietz@wupperinst.org
 
@@ -51,3 +52,6 @@ See also [`CITATION.cff`](CITATION.cff).
 [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](LICENSE)
 
 Use, sharing and adaptation are permitted for non-commercial purposes with attribution. Commercial use is not permitted.
+
+The CC BY-NC licence applies to the results only; it does not grant any rights to ecoinvent data.
+
