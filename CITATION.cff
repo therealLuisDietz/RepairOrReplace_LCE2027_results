@@ -12,15 +12,19 @@ authors:
   - family-names: Dietz
     given-names: Jan-Luis
     email: jan-luis.dietz@wupperinst.org
+    orcid: "https://orcid.org/0009-0008-3419-1024"
     affiliation: "Wuppertal Institute for Climate, Environment and Energy"
   - family-names: Bickel
     given-names: Manuel
+    orcid: "https://orcid.org/0000-0001-7350-3926"
     affiliation: "Wuppertal Institute for Climate, Environment and Energy"
   - family-names: Speiser-Tochtrop
     given-names: Christoph
+    orcid: "https://orcid.org/0009-0005-3698-558X"
     affiliation: "Wuppertal Institute for Climate, Environment and Energy"
   - family-names: Zimmermann
     given-names: Vita E. M.
+    orcid: "https://orcid.org/0009-0006-5024-4865"
     affiliation: "Wuppertal Institute for Climate, Environment and Energy"
 repository: "https://github.com/therealLuisDietz/RepairOrReplace_LCE2027_results"
 license: CC-BY-NC-4.0
@@ -37,12 +41,16 @@ preferred-citation:
   authors:
     - family-names: Dietz
       given-names: Jan-Luis
+      orcid: "https://orcid.org/0009-0008-3419-1024"
     - family-names: Bickel
       given-names: Manuel
+      orcid: "https://orcid.org/0000-0001-7350-3926"
     - family-names: Speiser-Tochtrop
       given-names: Christoph
+      orcid: "https://orcid.org/0009-0005-3698-558X"
     - family-names: Zimmermann
       given-names: Vita E. M.
+      orcid: "https://orcid.org/0009-0006-5024-4865"
   collection-title: "Procedia CIRP"
   conference:
     name: "34th CIRP Conference on Life Cycle Engineering (CIRP LCE 2027)"
