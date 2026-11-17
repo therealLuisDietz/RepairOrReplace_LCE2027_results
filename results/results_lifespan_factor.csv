@@ -1,0 +1,577 @@
+Repair Transport,Replace Transport,Lifespan Factor,Product,Repair Case,Footprint Base,Repair Pathway,Repair Mode
+self service (mail),mail,0.8149053049500493,Hand blender,motor,CF,self service,mail
+self service (mail),bicycle,0.8140693317606269,Hand blender,motor,CF,self service,mail
+self service (mail),public transportation,0.8334367884989445,Hand blender,motor,CF,self service,mail
+self service (mail),car,0.8736922952542647,Hand blender,motor,CF,self service,mail
+self service (bicycle),mail,0.8194014604113216,Hand blender,motor,CF,self service,bicycle
+self service (bicycle),bicycle,0.8185857939379835,Hand blender,motor,CF,self service,bicycle
+self service (bicycle),public transportation,0.8374827936685438,Hand blender,motor,CF,self service,bicycle
+self service (bicycle),car,0.876760449510874,Hand blender,motor,CF,self service,bicycle
+self service (public transportation),mail,0.7036473423910253,Hand blender,motor,CF,self service,public transportation
+self service (public transportation),bicycle,0.7023088768217753,Hand blender,motor,CF,self service,public transportation
+self service (public transportation),public transportation,0.7333178545451962,Hand blender,motor,CF,self service,public transportation
+self service (public transportation),car,0.7977704116923132,Hand blender,motor,CF,self service,public transportation
+self service (car),mail,0.3494785091535697,Hand blender,motor,CF,self service,car
+self service (car),bicycle,0.34654045344460416,Hand blender,motor,CF,self service,car
+self service (car),public transportation,0.41460802733111735,Hand blender,motor,CF,self service,car
+self service (car),car,0.5560873509939724,Hand blender,motor,CF,self service,car
+mail,mail,0.7943497589018087,Hand blender,motor,CF,repair service,mail
+mail,bicycle,0.7934209473661245,Hand blender,motor,CF,repair service,mail
+mail,public transportation,0.8149392418078909,Hand blender,motor,CF,repair service,mail
+mail,car,0.8596652922629153,Hand blender,motor,CF,repair service,mail
+bicycle,mail,0.8033420698243532,Hand blender,motor,CF,repair service,bicycle
+bicycle,bicycle,0.8024538717208376,Hand blender,motor,CF,repair service,bicycle
+bicycle,public transportation,0.8230312521470896,Hand blender,motor,CF,repair service,bicycle
+bicycle,car,0.8658016007761339,Hand blender,motor,CF,repair service,bicycle
+public transportation,mail,0.5718338337837607,Hand blender,motor,CF,repair service,public transportation
+public transportation,bicycle,0.5699000374884213,Hand blender,motor,CF,repair service,public transportation
+public transportation,public transportation,0.614701373900394,Hand blender,motor,CF,repair service,public transportation
+public transportation,car,0.7078215251390124,Hand blender,motor,CF,repair service,public transportation
+car,mail,-0.13650383269115074,Hand blender,motor,CF,repair service,car
+car,bicycle,-0.14163680926592104,Hand blender,motor,CF,repair service,car
+car,public transportation,-0.02271828052776348,Hand blender,motor,CF,repair service,car
+car,car,0.22445540374233075,Hand blender,motor,CF,repair service,car
+self service (mail),mail,0.781054535206787,Hand blender,motor,MF,self service,mail
+self service (mail),bicycle,0.7812087187973282,Hand blender,motor,MF,self service,mail
+self service (mail),public transportation,0.7944930670819299,Hand blender,motor,MF,self service,mail
+self service (mail),car,0.8279612225546055,Hand blender,motor,MF,self service,mail
+self service (bicycle),mail,0.7803498289237324,Hand blender,motor,MF,self service,bicycle
+self service (bicycle),bicycle,0.7805045087755005,Hand blender,motor,MF,self service,bicycle
+self service (bicycle),public transportation,0.7938316145737656,Hand blender,motor,MF,self service,bicycle
+self service (bicycle),car,0.8274074919372149,Hand blender,motor,MF,self service,bicycle
+self service (public transportation),mail,0.7156624256349878,Hand blender,motor,MF,self service,public transportation
+self service (public transportation),bicycle,0.7158626590044379,Hand blender,motor,MF,self service,public transportation
+self service (public transportation),public transportation,0.7331146234232082,Hand blender,motor,MF,self service,public transportation
+self service (public transportation),car,0.7765786620803208,Hand blender,motor,MF,self service,public transportation
+self service (car),mail,0.5084027060997898,Hand blender,motor,MF,self service,car
+self service (car),bicycle,0.5087488938408576,Hand blender,motor,MF,self service,car
+self service (car),public transportation,0.5385761829062239,Hand blender,motor,MF,self service,car
+self service (car),car,0.6137220859179077,Hand blender,motor,MF,self service,car
+mail,mail,0.7667228564463509,Hand blender,motor,MF,repair service,mail
+mail,bicycle,0.7668871325487048,Hand blender,motor,MF,repair service,mail
+mail,public transportation,0.781041044458826,Hand blender,motor,MF,repair service,mail
+mail,car,0.8166999502783596,Hand blender,motor,MF,repair service,mail
+bicycle,mail,0.7653134438802415,Hand blender,motor,MF,repair service,bicycle
+bicycle,bicycle,0.7654787125050493,Hand blender,motor,MF,repair service,bicycle
+bicycle,public transportation,0.7797181394424975,Hand blender,motor,MF,repair service,bicycle
+bicycle,car,0.8155924890435784,Hand blender,motor,MF,repair service,bicycle
+public transportation,mail,0.6359386373027522,Hand blender,motor,MF,repair service,public transportation
+public transportation,bicycle,0.6361950129629239,Hand blender,motor,MF,repair service,public transportation
+public transportation,public transportation,0.6582841571413827,Hand blender,motor,MF,repair service,public transportation
+public transportation,car,0.7139348293297902,Hand blender,motor,MF,repair service,public transportation
+car,mail,0.22141919823235612,Hand blender,motor,MF,repair service,car
+car,bicycle,0.2219674826357635,Hand blender,motor,MF,repair service,car
+car,public transportation,0.2692072761074138,Hand blender,motor,MF,repair service,car
+car,car,0.388221677004964,Hand blender,motor,MF,repair service,car
+self service (mail),mail,0.921109617731347,Hand blender,circuit board,CF,self service,mail
+self service (mail),bicycle,0.9207533123036734,Hand blender,circuit board,CF,self service,mail
+self service (mail),public transportation,0.9290080387032882,Hand blender,circuit board,CF,self service,mail
+self service (mail),car,0.9461655931944557,Hand blender,circuit board,CF,self service,mail
+self service (bicycle),mail,0.9256057731926193,Hand blender,circuit board,CF,self service,bicycle
+self service (bicycle),bicycle,0.92526977448103,Hand blender,circuit board,CF,self service,bicycle
+self service (bicycle),public transportation,0.9330540438728876,Hand blender,circuit board,CF,self service,bicycle
+self service (bicycle),car,0.9492337474510649,Hand blender,circuit board,CF,self service,bicycle
+self service (public transportation),mail,0.809851655172323,Hand blender,circuit board,CF,self service,public transportation
+self service (public transportation),bicycle,0.8089928573648218,Hand blender,circuit board,CF,self service,public transportation
+self service (public transportation),public transportation,0.8288891047495398,Hand blender,circuit board,CF,self service,public transportation
+self service (public transportation),car,0.8702437096325042,Hand blender,circuit board,CF,self service,public transportation
+self service (car),mail,0.4556828219348673,Hand blender,circuit board,CF,self service,car
+self service (car),bicycle,0.45322443398765067,Hand blender,circuit board,CF,self service,car
+self service (car),public transportation,0.510179277535461,Hand blender,circuit board,CF,self service,car
+self service (car),car,0.6285606489341634,Hand blender,circuit board,CF,self service,car
+mail,mail,0.9005540716831063,Hand blender,circuit board,CF,repair service,mail
+mail,bicycle,0.900104927909171,Hand blender,circuit board,CF,repair service,mail
+mail,public transportation,0.9105104920122346,Hand blender,circuit board,CF,repair service,mail
+mail,car,0.9321385902031063,Hand blender,circuit board,CF,repair service,mail
+bicycle,mail,0.9095463826056508,Hand blender,circuit board,CF,repair service,bicycle
+bicycle,bicycle,0.9091378522638841,Hand blender,circuit board,CF,repair service,bicycle
+bicycle,public transportation,0.9186025023514333,Hand blender,circuit board,CF,repair service,bicycle
+bicycle,car,0.9382748987163249,Hand blender,circuit board,CF,repair service,bicycle
+public transportation,mail,0.6780381465650585,Hand blender,circuit board,CF,repair service,public transportation
+public transportation,bicycle,0.6765840180314678,Hand blender,circuit board,CF,repair service,public transportation
+public transportation,public transportation,0.7102726241047377,Hand blender,circuit board,CF,repair service,public transportation
+public transportation,car,0.7802948230792034,Hand blender,circuit board,CF,repair service,public transportation
+car,mail,-0.0302995199098528,Hand blender,circuit board,CF,repair service,car
+car,bicycle,-0.03495282872287442,Hand blender,circuit board,CF,repair service,car
+car,public transportation,0.07285296967658028,Hand blender,circuit board,CF,repair service,car
+car,car,0.29692870168252183,Hand blender,circuit board,CF,repair service,car
+self service (mail),mail,0.8504622257722637,Hand blender,circuit board,MF,self service,mail
+self service (mail),bicycle,0.8505675317715167,Hand blender,circuit board,MF,self service,mail
+self service (mail),public transportation,0.8596406216225515,Hand blender,circuit board,MF,self service,mail
+self service (mail),car,0.8824990694173873,Hand blender,circuit board,MF,self service,mail
+self service (bicycle),mail,0.849757519489209,Hand blender,circuit board,MF,self service,bicycle
+self service (bicycle),bicycle,0.8498633217496889,Hand blender,circuit board,MF,self service,bicycle
+self service (bicycle),public transportation,0.8589791691143871,Hand blender,circuit board,MF,self service,bicycle
+self service (bicycle),car,0.8819453387999967,Hand blender,circuit board,MF,self service,bicycle
+self service (public transportation),mail,0.7850701162004644,Hand blender,circuit board,MF,self service,public transportation
+self service (public transportation),bicycle,0.7852214719786264,Hand blender,circuit board,MF,self service,public transportation
+self service (public transportation),public transportation,0.7982621779638298,Hand blender,circuit board,MF,self service,public transportation
+self service (public transportation),car,0.8311165089431026,Hand blender,circuit board,MF,self service,public transportation
+self service (car),mail,0.5778103966652663,Hand blender,circuit board,MF,self service,car
+self service (car),bicycle,0.5781077068150461,Hand blender,circuit board,MF,self service,car
+self service (car),public transportation,0.6037237374468454,Hand blender,circuit board,MF,self service,car
+self service (car),car,0.6682599327806895,Hand blender,circuit board,MF,self service,car
+mail,mail,0.8361305470118275,Hand blender,circuit board,MF,repair service,mail
+mail,bicycle,0.8362459455228932,Hand blender,circuit board,MF,repair service,mail
+mail,public transportation,0.8461885989994475,Hand blender,circuit board,MF,repair service,mail
+mail,car,0.8712377971411415,Hand blender,circuit board,MF,repair service,mail
+bicycle,mail,0.8347211344457182,Hand blender,circuit board,MF,repair service,bicycle
+bicycle,bicycle,0.8348375254792377,Hand blender,circuit board,MF,repair service,bicycle
+bicycle,public transportation,0.8448656939831191,Hand blender,circuit board,MF,repair service,bicycle
+bicycle,car,0.8701303359063602,Hand blender,circuit board,MF,repair service,bicycle
+public transportation,mail,0.7053463278682289,Hand blender,circuit board,MF,repair service,public transportation
+public transportation,bicycle,0.7055538259371125,Hand blender,circuit board,MF,repair service,public transportation
+public transportation,public transportation,0.7234317116820044,Hand blender,circuit board,MF,repair service,public transportation
+public transportation,car,0.7684726761925722,Hand blender,circuit board,MF,repair service,public transportation
+car,mail,0.2908268887978327,Hand blender,circuit board,MF,repair service,car
+car,bicycle,0.29132629560995205,Hand blender,circuit board,MF,repair service,car
+car,public transportation,0.3343548306480353,Hand blender,circuit board,MF,repair service,car
+car,car,0.44275952386774575,Hand blender,circuit board,MF,repair service,car
+self service (mail),mail,0.8048862620795845,Jeans,patch,CF,self service,mail
+self service (mail),bicycle,0.8035120757532409,Jeans,patch,CF,self service,mail
+self service (mail),public transportation,0.8336712959745572,Jeans,patch,CF,self service,mail
+self service (mail),car,0.8868229266948595,Jeans,patch,CF,self service,mail
+self service (bicycle),mail,0.8118800065125393,Jeans,patch,CF,self service,bicycle
+self service (bicycle),bicycle,0.8105550771379212,Jeans,patch,CF,self service,bicycle
+self service (bicycle),public transportation,0.8396332567273824,Jeans,patch,CF,self service,bicycle
+self service (bicycle),car,0.8908796965297381,Jeans,patch,CF,self service,bicycle
+self service (public transportation),mail,0.6318251295250403,Jeans,patch,CF,self service,public transportation
+self service (public transportation),bicycle,0.6292320734024808,Jeans,patch,CF,self service,public transportation
+self service (public transportation),public transportation,0.686141787279922,Jeans,patch,CF,self service,public transportation
+self service (public transportation),car,0.7864376196726273,Jeans,patch,CF,self service,public transportation
+self service (car),mail,0.08091750920007834,Jeans,patch,CF,self service,car
+self service (car),bicycle,0.07444440994473911,Jeans,patch,CF,self service,car
+self service (car),public transportation,0.21650929751763226,Jeans,patch,CF,self service,car
+self service (car),car,0.4668798438110907,Jeans,patch,CF,self service,car
+mail,mail,0.902789921472669,Jeans,patch,CF,repair service,mail
+mail,bicycle,0.9021052707549961,Jeans,patch,CF,repair service,mail
+mail,public transportation,0.917131276597973,Jeans,patch,CF,repair service,mail
+mail,car,0.9436126215368097,Jeans,patch,CF,repair service,mail
+bicycle,mail,0.9167774103385787,Jeans,patch,CF,repair service,bicycle
+bicycle,bicycle,0.9161912735243567,Jeans,patch,CF,repair service,bicycle
+bicycle,public transportation,0.9290551981036235,Jeans,patch,CF,repair service,bicycle
+bicycle,car,0.9517261612065668,Jeans,patch,CF,repair service,bicycle
+public transportation,mail,0.5566676563635805,Jeans,patch,CF,repair service,public transportation
+public transportation,bicycle,0.5535452660534756,Jeans,patch,CF,repair service,public transportation
+public transportation,public transportation,0.6220722592087027,Jeans,patch,CF,repair service,public transportation
+public transportation,car,0.742842007492345,Jeans,patch,CF,repair service,public transportation
+car,mail,-0.5451475842863431,Jeans,patch,CF,repair service,car
+car,bicycle,-0.5560300608620072,Jeans,patch,CF,repair service,car
+car,public transportation,-0.31719272031587664,Jeans,patch,CF,repair service,car
+car,car,0.10372645576927197,Jeans,patch,CF,repair service,car
+self service (mail),mail,0.813679379023302,Jeans,patch,MF,self service,mail
+self service (mail),bicycle,0.8138883396804649,Jeans,patch,MF,self service,mail
+self service (mail),public transportation,0.8312597059832795,Jeans,patch,MF,self service,mail
+self service (mail),car,0.870105661293566,Jeans,patch,MF,self service,mail
+self service (bicycle),mail,0.8125566086562861,Jeans,patch,MF,self service,bicycle
+self service (bicycle),bicycle,0.8127668285129542,Jeans,patch,MF,self service,bicycle
+self service (bicycle),public transportation,0.8302428748840143,Jeans,patch,MF,self service,bicycle
+self service (bicycle),car,0.8693229164015719,Jeans,patch,MF,self service,bicycle
+self service (public transportation),mail,0.7094936712620279,Jeans,patch,MF,self service,public transportation
+self service (public transportation),bicycle,0.7098194773539401,Jeans,patch,MF,self service,public transportation
+self service (public transportation),public transportation,0.7369044657107807,Jeans,patch,MF,self service,public transportation
+self service (public transportation),car,0.7974720819217745,Jeans,patch,MF,self service,public transportation
+self service (car),mail,0.3792779814551631,Jeans,patch,MF,self service,car
+self service (car),bicycle,0.37997412813088094,Jeans,patch,MF,self service,car
+self service (car),public transportation,0.4378463566573916,Jeans,patch,MF,self service,car
+self service (car),car,0.5672605871709279,Jeans,patch,MF,self service,car
+mail,mail,0.9254806619607273,Jeans,patch,MF,repair service,mail
+mail,bicycle,0.9255642362305339,Jeans,patch,MF,repair service,mail
+mail,public transportation,0.9325119520063704,Jeans,patch,MF,repair service,mail
+mail,car,0.9480484764128008,Jeans,patch,MF,repair service,mail
+bicycle,mail,0.9232351212266955,Jeans,patch,MF,repair service,bicycle
+bicycle,bicycle,0.9233212138955124,Jeans,patch,MF,repair service,bicycle
+bicycle,public transportation,0.9304782898078399,Jeans,patch,MF,repair service,bicycle
+bicycle,car,0.9464829866288123,Jeans,patch,MF,repair service,bicycle
+public transportation,mail,0.7171092464381791,Jeans,patch,MF,repair service,public transportation
+public transportation,bicycle,0.7174265115774842,Jeans,patch,MF,repair service,public transportation
+public transportation,public transportation,0.7438014714613729,Jeans,patch,MF,repair service,public transportation
+public transportation,car,0.8027813176692177,Jeans,patch,MF,repair service,public transportation
+car,mail,0.05667786682444953,Jeans,patch,MF,repair service,car
+car,bicycle,0.057735813131366,Jeans,patch,MF,repair service,car
+car,public transportation,0.1456852533545946,Jeans,patch,MF,repair service,car
+car,car,0.3423583281675243,Jeans,patch,MF,repair service,car
+self service (mail),mail,0.8356644710011903,Jeans,an inside pocket,CF,self service,mail
+self service (mail),bicycle,0.8345070556428995,Jeans,an inside pocket,CF,self service,mail
+self service (mail),public transportation,0.8599088108554577,Jeans,an inside pocket,CF,self service,mail
+self service (mail),car,0.9046760396762854,Jeans,an inside pocket,CF,self service,mail
+self service (bicycle),mail,0.8426582154341451,Jeans,an inside pocket,CF,self service,bicycle
+self service (bicycle),bicycle,0.8415500570275798,Jeans,an inside pocket,CF,self service,bicycle
+self service (bicycle),public transportation,0.8658707716082829,Jeans,an inside pocket,CF,self service,bicycle
+self service (bicycle),car,0.9087328095111641,Jeans,an inside pocket,CF,self service,bicycle
+self service (public transportation),mail,0.6626033384466461,Jeans,an inside pocket,CF,self service,public transportation
+self service (public transportation),bicycle,0.6602270532921393,Jeans,an inside pocket,CF,self service,public transportation
+self service (public transportation),public transportation,0.7123793021608225,Jeans,an inside pocket,CF,self service,public transportation
+self service (public transportation),car,0.8042907326540532,Jeans,an inside pocket,CF,self service,public transportation
+self service (car),mail,0.11169571812168433,Jeans,an inside pocket,CF,self service,car
+self service (car),bicycle,0.10543938983439793,Jeans,an inside pocket,CF,self service,car
+self service (car),public transportation,0.2427468123985329,Jeans,an inside pocket,CF,self service,car
+self service (car),car,0.4847329567925167,Jeans,an inside pocket,CF,self service,car
+mail,mail,0.9335681303942748,Jeans,an inside pocket,CF,repair service,mail
+mail,bicycle,0.9331002506446547,Jeans,an inside pocket,CF,repair service,mail
+mail,public transportation,0.9433687914788735,Jeans,an inside pocket,CF,repair service,mail
+mail,car,0.9614657345182356,Jeans,an inside pocket,CF,repair service,mail
+bicycle,mail,0.9475556192601845,Jeans,an inside pocket,CF,repair service,bicycle
+bicycle,bicycle,0.9471862534140153,Jeans,an inside pocket,CF,repair service,bicycle
+bicycle,public transportation,0.9552927129845239,Jeans,an inside pocket,CF,repair service,bicycle
+bicycle,car,0.9695792741879927,Jeans,an inside pocket,CF,repair service,bicycle
+public transportation,mail,0.5874458652851864,Jeans,an inside pocket,CF,repair service,public transportation
+public transportation,bicycle,0.5845402459431344,Jeans,an inside pocket,CF,repair service,public transportation
+public transportation,public transportation,0.6483097740896031,Jeans,an inside pocket,CF,repair service,public transportation
+public transportation,car,0.7606951204737709,Jeans,an inside pocket,CF,repair service,public transportation
+car,mail,-0.5143693753647374,Jeans,an inside pocket,CF,repair service,car
+car,bicycle,-0.5250350809723485,Jeans,an inside pocket,CF,repair service,car
+car,public transportation,-0.2909552054349762,Jeans,an inside pocket,CF,repair service,car
+car,car,0.12157956875069797,Jeans,an inside pocket,CF,repair service,car
+self service (mail),mail,0.8323417176801535,Jeans,an inside pocket,MF,self service,mail
+self service (mail),bicycle,0.8325297483161009,Jeans,an inside pocket,MF,self service,mail
+self service (mail),public transportation,0.8481611551921171,Jeans,an inside pocket,MF,self service,mail
+self service (mail),car,0.8831162026165816,Jeans,an inside pocket,MF,self service,mail
+self service (bicycle),mail,0.8312189473131376,Jeans,an inside pocket,MF,self service,bicycle
+self service (bicycle),bicycle,0.8314082371485901,Jeans,an inside pocket,MF,self service,bicycle
+self service (bicycle),public transportation,0.8471443240928518,Jeans,an inside pocket,MF,self service,bicycle
+self service (bicycle),car,0.8823334577245874,Jeans,an inside pocket,MF,self service,bicycle
+self service (public transportation),mail,0.7281560099188794,Jeans,an inside pocket,MF,self service,public transportation
+self service (public transportation),bicycle,0.728460885989576,Jeans,an inside pocket,MF,self service,public transportation
+self service (public transportation),public transportation,0.7538059149196183,Jeans,an inside pocket,MF,self service,public transportation
+self service (public transportation),car,0.8104826232447901,Jeans,an inside pocket,MF,self service,public transportation
+self service (car),mail,0.39794032011201474,Jeans,an inside pocket,MF,self service,car
+self service (car),bicycle,0.39861553676651706,Jeans,an inside pocket,MF,self service,car
+self service (car),public transportation,0.4547478058662292,Jeans,an inside pocket,MF,self service,car
+self service (car),car,0.5802711284939435,Jeans,an inside pocket,MF,self service,car
+mail,mail,0.9441430006175788,Jeans,an inside pocket,MF,repair service,mail
+mail,bicycle,0.9442056448661699,Jeans,an inside pocket,MF,repair service,mail
+mail,public transportation,0.949413401215208,Jeans,an inside pocket,MF,repair service,mail
+mail,car,0.9610590177358163,Jeans,an inside pocket,MF,repair service,mail
+bicycle,mail,0.941897459883547,Jeans,an inside pocket,MF,repair service,bicycle
+bicycle,bicycle,0.9419626225311484,Jeans,an inside pocket,MF,repair service,bicycle
+bicycle,public transportation,0.9473797390166774,Jeans,an inside pocket,MF,repair service,bicycle
+bicycle,car,0.9594935279518277,Jeans,an inside pocket,MF,repair service,bicycle
+public transportation,mail,0.7357715850950306,Jeans,an inside pocket,MF,repair service,public transportation
+public transportation,bicycle,0.7360679202131202,Jeans,an inside pocket,MF,repair service,public transportation
+public transportation,public transportation,0.7607029206702104,Jeans,an inside pocket,MF,repair service,public transportation
+public transportation,car,0.8157918589922333,Jeans,an inside pocket,MF,repair service,public transportation
+car,mail,0.07534020548130116,Jeans,an inside pocket,MF,repair service,car
+car,bicycle,0.07637722176700201,Jeans,an inside pocket,MF,repair service,car
+car,public transportation,0.1625867025634321,Jeans,an inside pocket,MF,repair service,car
+car,car,0.3553688694905399,Jeans,an inside pocket,MF,repair service,car
+self service (mail),mail,0.9523942133445271,Jeans,rivets and buttons,CF,self service,mail
+self service (mail),bicycle,0.9520589257231938,Jeans,rivets and buttons,CF,self service,mail
+self service (mail),public transportation,0.9594174716608307,Jeans,rivets and buttons,CF,self service,mail
+self service (mail),car,0.9723859341557334,Jeans,rivets and buttons,CF,self service,mail
+self service (bicycle),mail,0.959387957777482,Jeans,rivets and buttons,CF,self service,bicycle
+self service (bicycle),bicycle,0.9591019271078741,Jeans,rivets and buttons,CF,self service,bicycle
+self service (bicycle),public transportation,0.9653794324136559,Jeans,rivets and buttons,CF,self service,bicycle
+self service (bicycle),car,0.9764427039906121,Jeans,rivets and buttons,CF,self service,bicycle
+self service (public transportation),mail,0.7793330807899829,Jeans,rivets and buttons,CF,self service,public transportation
+self service (public transportation),bicycle,0.7777789233724336,Jeans,rivets and buttons,CF,self service,public transportation
+self service (public transportation),public transportation,0.8118879629661955,Jeans,rivets and buttons,CF,self service,public transportation
+self service (public transportation),car,0.872000627133501,Jeans,rivets and buttons,CF,self service,public transportation
+self service (car),mail,0.2284254604650211,Jeans,rivets and buttons,CF,self service,car
+self service (car),bicycle,0.22299125991469215,Jeans,rivets and buttons,CF,self service,car
+self service (car),public transportation,0.3422554732039058,Jeans,rivets and buttons,CF,self service,car
+self service (car),car,0.5524428512719646,Jeans,rivets and buttons,CF,self service,car
+mail,mail,0.9204201775311498,Jeans,rivets and buttons,CF,repair service,mail
+mail,bicycle,0.9198596967313091,Jeans,rivets and buttons,CF,repair service,mail
+mail,public transportation,0.9321605496419856,Jeans,rivets and buttons,CF,repair service,mail
+mail,car,0.9538391735140618,Jeans,rivets and buttons,CF,repair service,mail
+bicycle,mail,0.9344076663970595,Jeans,rivets and buttons,CF,repair service,bicycle
+bicycle,bicycle,0.9339456995006696,Jeans,rivets and buttons,CF,repair service,bicycle
+bicycle,public transportation,0.9440844711476359,Jeans,rivets and buttons,CF,repair service,bicycle
+bicycle,car,0.961952713183819,Jeans,rivets and buttons,CF,repair service,bicycle
+public transportation,mail,0.5742979124220614,Jeans,rivets and buttons,CF,repair service,public transportation
+public transportation,bicycle,0.5712996920297886,Jeans,rivets and buttons,CF,repair service,public transportation
+public transportation,public transportation,0.6371015322527152,Jeans,rivets and buttons,CF,repair service,public transportation
+public transportation,car,0.7530685594695972,Jeans,rivets and buttons,CF,repair service,public transportation
+car,mail,-0.5275173282278622,Jeans,rivets and buttons,CF,repair service,car
+car,bicycle,-0.5382756348856943,Jeans,rivets and buttons,CF,repair service,car
+car,public transportation,-0.30216344727186395,Jeans,rivets and buttons,CF,repair service,car
+car,car,0.11395300774652417,Jeans,rivets and buttons,CF,repair service,car
+self service (mail),mail,0.8107691197381157,Jeans,rivets and buttons,MF,self service,mail
+self service (mail),bicycle,0.8109813442835674,Jeans,rivets and buttons,MF,self service,mail
+self service (mail),public transportation,0.8286240449122022,Jeans,rivets and buttons,MF,self service,mail
+self service (mail),car,0.8680767596973181,Jeans,rivets and buttons,MF,self service,mail
+self service (bicycle),mail,0.8096463493710999,Jeans,rivets and buttons,MF,self service,bicycle
+self service (bicycle),bicycle,0.8098598331160566,Jeans,rivets and buttons,MF,self service,bicycle
+self service (bicycle),public transportation,0.827607213812937,Jeans,rivets and buttons,MF,self service,bicycle
+self service (bicycle),car,0.8672940148053239,Jeans,rivets and buttons,MF,self service,bicycle
+self service (public transportation),mail,0.7065834119768416,Jeans,rivets and buttons,MF,self service,public transportation
+self service (public transportation),bicycle,0.7069124819570425,Jeans,rivets and buttons,MF,self service,public transportation
+self service (public transportation),public transportation,0.7342688046397035,Jeans,rivets and buttons,MF,self service,public transportation
+self service (public transportation),car,0.7954431803255266,Jeans,rivets and buttons,MF,self service,public transportation
+self service (car),mail,0.37636772216997694,Jeans,rivets and buttons,MF,self service,car
+self service (car),bicycle,0.3770671327339834,Jeans,rivets and buttons,MF,self service,car
+self service (car),public transportation,0.4352106955863143,Jeans,rivets and buttons,MF,self service,car
+self service (car),car,0.56523168557468,Jeans,rivets and buttons,MF,self service,car
+mail,mail,0.7879352319060707,Jeans,rivets and buttons,MF,repair service,mail
+mail,bicycle,0.7881730649117236,Jeans,rivets and buttons,MF,repair service,mail
+mail,public transportation,0.8079446540529052,Jeans,rivets and buttons,MF,repair service,mail
+mail,car,0.8521580023182769,Jeans,rivets and buttons,MF,repair service,mail
+bicycle,mail,0.785689691172039,Jeans,rivets and buttons,MF,repair service,bicycle
+bicycle,bicycle,0.7859300425767022,Jeans,rivets and buttons,MF,repair service,bicycle
+bicycle,public transportation,0.8059109918543745,Jeans,rivets and buttons,MF,repair service,bicycle
+bicycle,car,0.8505925125342884,Jeans,rivets and buttons,MF,repair service,bicycle
+public transportation,mail,0.5795638163835225,Jeans,rivets and buttons,MF,repair service,public transportation
+public transportation,bicycle,0.580035340258674,Jeans,rivets and buttons,MF,repair service,public transportation
+public transportation,public transportation,0.6192341735079077,Jeans,rivets and buttons,MF,repair service,public transportation
+public transportation,car,0.7068908435746937,Jeans,rivets and buttons,MF,repair service,public transportation
+car,mail,-0.08086756323020694,Jeans,rivets and buttons,MF,repair service,car
+car,bicycle,-0.07965535818744418,Jeans,rivets and buttons,MF,repair service,car
+car,public transportation,0.021117955401129374,Jeans,rivets and buttons,MF,repair service,car
+car,car,0.24646785407300043,Jeans,rivets and buttons,MF,repair service,car
+self service (mail),mail,0.8275045905838795,Jeans,zipper,CF,self service,mail
+self service (mail),bicycle,0.8262897051765108,Jeans,zipper,CF,self service,mail
+self service (mail),public transportation,0.8529527535871196,Jeans,zipper,CF,self service,mail
+self service (mail),car,0.899942844597383,Jeans,zipper,CF,self service,mail
+self service (bicycle),mail,0.8344983350168343,Jeans,zipper,CF,self service,bicycle
+self service (bicycle),bicycle,0.8333327065611911,Jeans,zipper,CF,self service,bicycle
+self service (bicycle),public transportation,0.8589147143399449,Jeans,zipper,CF,self service,bicycle
+self service (bicycle),car,0.9039996144322616,Jeans,zipper,CF,self service,bicycle
+self service (public transportation),mail,0.6544434580293352,Jeans,zipper,CF,self service,public transportation
+self service (public transportation),bicycle,0.6520097028257505,Jeans,zipper,CF,self service,public transportation
+self service (public transportation),public transportation,0.7054232448924844,Jeans,zipper,CF,self service,public transportation
+self service (public transportation),car,0.7995575375751507,Jeans,zipper,CF,self service,public transportation
+self service (car),mail,0.10353583770437347,Jeans,zipper,CF,self service,car
+self service (car),bicycle,0.0972220393680091,Jeans,zipper,CF,self service,car
+self service (car),public transportation,0.23579075513019487,Jeans,zipper,CF,self service,car
+self service (car),car,0.47999976171361425,Jeans,zipper,CF,self service,car
+mail,mail,0.9254082499769639,Jeans,zipper,CF,repair service,mail
+mail,bicycle,0.924882900178266,Jeans,zipper,CF,repair service,mail
+mail,public transportation,0.9364127342105355,Jeans,zipper,CF,repair service,mail
+mail,car,0.9567325394393331,Jeans,zipper,CF,repair service,mail
+bicycle,mail,0.9393957388428736,Jeans,zipper,CF,repair service,bicycle
+bicycle,bicycle,0.9389689029476265,Jeans,zipper,CF,repair service,bicycle
+bicycle,public transportation,0.9483366557161859,Jeans,zipper,CF,repair service,bicycle
+bicycle,car,0.9648460791090904,Jeans,zipper,CF,repair service,bicycle
+public transportation,mail,0.5792859848678755,Jeans,zipper,CF,repair service,public transportation
+public transportation,bicycle,0.5763228954767455,Jeans,zipper,CF,repair service,public transportation
+public transportation,public transportation,0.6413537168212651,Jeans,zipper,CF,repair service,public transportation
+public transportation,car,0.7559619253948685,Jeans,zipper,CF,repair service,public transportation
+car,mail,-0.5225292557820482,Jeans,zipper,CF,repair service,car
+car,bicycle,-0.5332524314387375,Jeans,zipper,CF,repair service,car
+car,public transportation,-0.29791126270331425,Jeans,zipper,CF,repair service,car
+car,car,0.11684637367179551,Jeans,zipper,CF,repair service,car
+self service (mail),mail,0.7396051825230621,Jeans,zipper,MF,self service,mail
+self service (mail),bicycle,0.7398972182188244,Jeans,zipper,MF,self service,mail
+self service (mail),public transportation,0.764174798091812,Jeans,zipper,MF,self service,mail
+self service (mail),car,0.8184644703230162,Jeans,zipper,MF,self service,mail
+self service (bicycle),mail,0.7384824121560463,Jeans,zipper,MF,self service,bicycle
+self service (bicycle),bicycle,0.7387757070513137,Jeans,zipper,MF,self service,bicycle
+self service (bicycle),public transportation,0.7631579669925468,Jeans,zipper,MF,self service,bicycle
+self service (bicycle),car,0.8176817254310219,Jeans,zipper,MF,self service,bicycle
+self service (public transportation),mail,0.635419474761788,Jeans,zipper,MF,self service,public transportation
+self service (public transportation),bicycle,0.6358283558922995,Jeans,zipper,MF,self service,public transportation
+self service (public transportation),public transportation,0.6698195578193132,Jeans,zipper,MF,self service,public transportation
+self service (public transportation),car,0.7458308909512247,Jeans,zipper,MF,self service,public transportation
+self service (car),mail,0.3052037849549234,Jeans,zipper,MF,self service,car
+self service (car),bicycle,0.3059830066692406,Jeans,zipper,MF,self service,car
+self service (car),public transportation,0.3707614487659242,Jeans,zipper,MF,self service,car
+self service (car),car,0.5156193962003781,Jeans,zipper,MF,self service,car
+mail,mail,0.8514064654604874,Jeans,zipper,MF,repair service,mail
+mail,bicycle,0.8515731147688933,Jeans,zipper,MF,repair service,mail
+mail,public transportation,0.8654270441149029,Jeans,zipper,MF,repair service,mail
+mail,car,0.8964072854422509,Jeans,zipper,MF,repair service,mail
+bicycle,mail,0.8491609247264555,Jeans,zipper,MF,repair service,bicycle
+bicycle,bicycle,0.8493300924338718,Jeans,zipper,MF,repair service,bicycle
+bicycle,public transportation,0.8633933819163724,Jeans,zipper,MF,repair service,bicycle
+bicycle,car,0.8948417956582624,Jeans,zipper,MF,repair service,bicycle
+public transportation,mail,0.6430350499379391,Jeans,zipper,MF,repair service,public transportation
+public transportation,bicycle,0.6434353901158436,Jeans,zipper,MF,repair service,public transportation
+public transportation,public transportation,0.6767165635699053,Jeans,zipper,MF,repair service,public transportation
+public transportation,car,0.7511401266986678,Jeans,zipper,MF,repair service,public transportation
+car,mail,-0.01739632967579019,Jeans,zipper,MF,repair service,car
+car,bicycle,-0.016255308330274554,Jeans,zipper,MF,repair service,car
+car,public transportation,0.07860034546312711,Jeans,zipper,MF,repair service,car
+car,car,0.29071713719697445,Jeans,zipper,MF,repair service,car
+self service (mail),mail,0.7883662774326632,Smartphone,display,CF,self service,mail
+self service (mail),bicycle,0.7881878984290797,Smartphone,display,CF,self service,mail
+self service (mail),public transportation,0.7926865410278551,Smartphone,display,CF,self service,mail
+self service (mail),car,0.8053365006365073,Smartphone,display,CF,self service,mail
+self service (bicycle),mail,0.7892084342417433,Smartphone,display,CF,self service,bicycle
+self service (bicycle),bicycle,0.7890307650640356,Smartphone,display,CF,self service,bicycle
+self service (bicycle),public transportation,0.7935115061561407,Smartphone,display,CF,self service,bicycle
+self service (bicycle),car,0.8061111276169317,Smartphone,display,CF,self service,bicycle
+self service (public transportation),mail,0.7675269956194531,Smartphone,display,CF,self service,public transportation
+self service (public transportation),bicycle,0.7673310518805327,Smartphone,display,CF,self service,public transportation
+self service (public transportation),public transportation,0.77227266963353,Smartphone,display,CF,self service,public transportation
+self service (public transportation),car,0.7861682533800204,Smartphone,display,CF,self service,public transportation
+self service (car),mail,0.7011890548956543,Smartphone,display,CF,self service,car
+self service (car),bicycle,0.7009371971198664,Smartphone,display,CF,self service,car
+self service (car),public transportation,0.7072889431002313,Smartphone,display,CF,self service,car
+self service (car),car,0.7251497374024742,Smartphone,display,CF,self service,car
+mail,mail,0.8620201703398067,Smartphone,display,CF,repair service,mail
+mail,bicycle,0.8619038717450893,Smartphone,display,CF,repair service,mail
+mail,public transportation,0.8648368728375009,Smartphone,display,CF,repair service,mail
+mail,car,0.8730843262718408,Smartphone,display,CF,repair service,mail
+bicycle,mail,0.8637044839579668,Smartphone,display,CF,repair service,bicycle
+bicycle,bicycle,0.8635896050150009,Smartphone,display,CF,repair service,bicycle
+bicycle,public transportation,0.8664868030940721,Smartphone,display,CF,repair service,bicycle
+bicycle,car,0.8746335802326898,Smartphone,display,CF,repair service,bicycle
+public transportation,mail,0.8203416067133866,Smartphone,display,CF,repair service,public transportation
+public transportation,bicycle,0.8201901786479955,Smartphone,display,CF,repair service,public transportation
+public transportation,public transportation,0.8240091300488506,Smartphone,display,CF,repair service,public transportation
+public transportation,car,0.834747831758867,Smartphone,display,CF,repair service,public transportation
+car,mail,0.6876657252657892,Smartphone,display,CF,repair service,car
+car,bicycle,0.6874024691266625,Smartphone,display,CF,repair service,car
+car,public transportation,0.6940416769822532,Smartphone,display,CF,repair service,car
+car,car,0.7127107998037747,Smartphone,display,CF,repair service,car
+self service (mail),mail,0.7301775260958767,Smartphone,display,MF,self service,mail
+self service (mail),bicycle,0.7302275366957045,Smartphone,display,MF,self service,mail
+self service (mail),public transportation,0.7347405476383717,Smartphone,display,MF,self service,mail
+self service (mail),car,0.7482351193760026,Smartphone,display,MF,self service,mail
+self service (bicycle),mail,0.729992145426496,Smartphone,display,MF,self service,bicycle
+self service (bicycle),bicycle,0.7300421903859469,Smartphone,display,MF,self service,bicycle
+self service (bicycle),public transportation,0.7345583019783759,Smartphone,display,MF,self service,bicycle
+self service (bicycle),car,0.7480621451184424,Smartphone,display,MF,self service,bicycle
+self service (public transportation),mail,0.7129754188688959,Smartphone,display,MF,self service,public transportation
+self service (public transportation),bicycle,0.7130286178158183,Smartphone,display,MF,self service,public transportation
+self service (public transportation),public transportation,0.7178293486693921,Smartphone,display,MF,self service,public transportation
+self service (public transportation),car,0.7321842455928909,Smartphone,display,MF,self service,public transportation
+self service (car),mail,0.6584534904187392,Smartphone,display,MF,self service,car
+self service (car),bicycle,0.6585167948039008,Smartphone,display,MF,self service,car
+self service (car),public transportation,0.6642294513994285,Smartphone,display,MF,self service,car
+self service (car),car,0.6813111414773257,Smartphone,display,MF,self service,car
+mail,mail,0.8682130822538032,Smartphone,display,MF,repair service,mail
+mail,bicycle,0.8682375084726819,Smartphone,display,MF,repair service,mail
+mail,public transportation,0.8704417570413178,Smartphone,display,MF,repair service,mail
+mail,car,0.8770327870243845,Smartphone,display,MF,repair service,mail
+bicycle,mail,0.8678423209150419,Smartphone,display,MF,repair service,bicycle
+bicycle,bicycle,0.8678668158531664,Smartphone,display,MF,repair service,bicycle
+bicycle,public transportation,0.8700772657213262,Smartphone,display,MF,repair service,bicycle
+bicycle,car,0.8766868385092641,Smartphone,display,MF,repair service,bicycle
+public transportation,mail,0.8338088677998416,Smartphone,display,MF,repair service,public transportation
+public transportation,bicycle,0.8338396707129094,Smartphone,display,MF,repair service,public transportation
+public transportation,public transportation,0.8366193591033585,Smartphone,display,MF,repair service,public transportation
+public transportation,car,0.8449310394581611,Smartphone,display,MF,repair service,public transportation
+car,mail,0.7247650108995283,Smartphone,display,MF,repair service,car
+car,bicycle,0.7248160246890742,Smartphone,display,MF,repair service,car
+car,public transportation,0.7294195645634314,Smartphone,display,MF,repair service,car
+car,car,0.7431848312270308,Smartphone,display,MF,repair service,car
+self service (mail),mail,0.9021643343694168,Smartphone,battery,CF,self service,mail
+self service (mail),bicycle,0.9020818719511481,Smartphone,battery,CF,self service,mail
+self service (mail),public transportation,0.9041615390653777,Smartphone,battery,CF,self service,mail
+self service (mail),car,0.9100094597251803,Smartphone,battery,CF,self service,mail
+self service (bicycle),mail,0.9030064911784967,Smartphone,battery,CF,self service,bicycle
+self service (bicycle),bicycle,0.9029247385861039,Smartphone,battery,CF,self service,bicycle
+self service (bicycle),public transportation,0.9049865041936633,Smartphone,battery,CF,self service,bicycle
+self service (bicycle),car,0.9107840867056047,Smartphone,battery,CF,self service,bicycle
+self service (public transportation),mail,0.8813250525562066,Smartphone,battery,CF,self service,public transportation
+self service (public transportation),bicycle,0.8812250254026012,Smartphone,battery,CF,self service,public transportation
+self service (public transportation),public transportation,0.8837476676710525,Smartphone,battery,CF,self service,public transportation
+self service (public transportation),car,0.8908412124686934,Smartphone,battery,CF,self service,public transportation
+self service (car),mail,0.8149871118324079,Smartphone,battery,CF,self service,car
+self service (car),bicycle,0.8148311706419347,Smartphone,battery,CF,self service,car
+self service (car),public transportation,0.8187639411377539,Smartphone,battery,CF,self service,car
+self service (car),car,0.8298226964911473,Smartphone,battery,CF,self service,car
+mail,mail,0.9758182272765603,Smartphone,battery,CF,repair service,mail
+mail,bicycle,0.9757978452671576,Smartphone,battery,CF,repair service,mail
+mail,public transportation,0.9763118708750234,Smartphone,battery,CF,repair service,mail
+mail,car,0.977757285360514,Smartphone,battery,CF,repair service,mail
+bicycle,mail,0.9775025408947204,Smartphone,battery,CF,repair service,bicycle
+bicycle,bicycle,0.9774835785370692,Smartphone,battery,CF,repair service,bicycle
+bicycle,public transportation,0.9779618011315947,Smartphone,battery,CF,repair service,bicycle
+bicycle,car,0.9793065393213628,Smartphone,battery,CF,repair service,bicycle
+public transportation,mail,0.9341396636501401,Smartphone,battery,CF,repair service,public transportation
+public transportation,bicycle,0.9340841521700639,Smartphone,battery,CF,repair service,public transportation
+public transportation,public transportation,0.9354841280863732,Smartphone,battery,CF,repair service,public transportation
+public transportation,car,0.9394207908475402,Smartphone,battery,CF,repair service,public transportation
+car,mail,0.8014637822025428,Smartphone,battery,CF,repair service,car
+car,bicycle,0.8012964426487309,Smartphone,battery,CF,repair service,car
+car,public transportation,0.8055166750197758,Smartphone,battery,CF,repair service,car
+car,car,0.8173837588924479,Smartphone,battery,CF,repair service,car
+self service (mail),mail,0.7745682827137074,Smartphone,battery,MF,self service,mail
+self service (mail),bicycle,0.7746100656506087,Smartphone,battery,MF,self service,mail
+self service (mail),public transportation,0.7783806033386547,Smartphone,battery,MF,self service,mail
+self service (mail),car,0.789655069979036,Smartphone,battery,MF,self service,mail
+self service (bicycle),mail,0.7743829020443267,Smartphone,battery,MF,self service,bicycle
+self service (bicycle),bicycle,0.7744247193408511,Smartphone,battery,MF,self service,bicycle
+self service (bicycle),public transportation,0.7781983576786589,Smartphone,battery,MF,self service,bicycle
+self service (bicycle),car,0.7894820957214759,Smartphone,battery,MF,self service,bicycle
+self service (public transportation),mail,0.7573661754867266,Smartphone,battery,MF,self service,public transportation
+self service (public transportation),bicycle,0.7574111467707225,Smartphone,battery,MF,self service,public transportation
+self service (public transportation),public transportation,0.761469404369675,Smartphone,battery,MF,self service,public transportation
+self service (public transportation),car,0.7736041961959244,Smartphone,battery,MF,self service,public transportation
+self service (car),mail,0.7028442470365699,Smartphone,battery,MF,self service,car
+self service (car),bicycle,0.702899323758805,Smartphone,battery,MF,self service,car
+self service (car),public transportation,0.7078695070997114,Smartphone,battery,MF,self service,car
+self service (car),car,0.7227310920803592,Smartphone,battery,MF,self service,car
+mail,mail,0.9126038388716339,Smartphone,battery,MF,repair service,mail
+mail,bicycle,0.912620037427586,Smartphone,battery,MF,repair service,mail
+mail,public transportation,0.9140818127416007,Smartphone,battery,MF,repair service,mail
+mail,car,0.9184527376274179,Smartphone,battery,MF,repair service,mail
+bicycle,mail,0.9122330775328725,Smartphone,battery,MF,repair service,bicycle
+bicycle,bicycle,0.9122493448080706,Smartphone,battery,MF,repair service,bicycle
+bicycle,public transportation,0.9137173214216091,Smartphone,battery,MF,repair service,bicycle
+bicycle,car,0.9181067891122975,Smartphone,battery,MF,repair service,bicycle
+public transportation,mail,0.8781996244176723,Smartphone,battery,MF,repair service,public transportation
+public transportation,bicycle,0.8782221996678136,Smartphone,battery,MF,repair service,public transportation
+public transportation,public transportation,0.8802594148036414,Smartphone,battery,MF,repair service,public transportation
+public transportation,car,0.8863509900611946,Smartphone,battery,MF,repair service,public transportation
+car,mail,0.769155767517359,Smartphone,battery,MF,repair service,car
+car,bicycle,0.7691985536439785,Smartphone,battery,MF,repair service,car
+car,public transportation,0.7730596202637143,Smartphone,battery,MF,repair service,car
+car,car,0.7846047818300643,Smartphone,battery,MF,repair service,car
+self service (mail),mail,0.19217350180907744,Smartphone,mainboard,CF,self service,mail
+self service (mail),bicycle,0.19149261180691912,Smartphone,mainboard,CF,self service,mail
+self service (mail),public transportation,0.208664368052075,Smartphone,mainboard,CF,self service,mail
+self service (mail),car,0.2569504939536911,Smartphone,mainboard,CF,self service,mail
+self service (bicycle),mail,0.19301565861815762,Smartphone,mainboard,CF,self service,bicycle
+self service (bicycle),bicycle,0.19233547844187515,Smartphone,mainboard,CF,self service,bicycle
+self service (bicycle),public transportation,0.20948933318036078,Smartphone,mainboard,CF,self service,bicycle
+self service (bicycle),car,0.2577251209341156,Smartphone,mainboard,CF,self service,bicycle
+self service (public transportation),mail,0.1713342199958675,Smartphone,mainboard,CF,self service,public transportation
+self service (public transportation),bicycle,0.17063576525837232,Smartphone,mainboard,CF,self service,public transportation
+self service (public transportation),public transportation,0.18825049665774995,Smartphone,mainboard,CF,self service,public transportation
+self service (public transportation),car,0.23778224669720427,Smartphone,mainboard,CF,self service,public transportation
+self service (car),mail,0.1049962792720689,Smartphone,mainboard,CF,self service,car
+self service (car),bicycle,0.10424191049770604,Smartphone,mainboard,CF,self service,car
+self service (car),public transportation,0.12326677012445142,Smartphone,mainboard,CF,self service,car
+self service (car),car,0.17676373071965823,Smartphone,mainboard,CF,self service,car
+mail,mail,0.2658273947162211,Smartphone,mainboard,CF,repair service,mail
+mail,bicycle,0.2652085851229288,Smartphone,mainboard,CF,repair service,mail
+mail,public transportation,0.2808146998617208,Smartphone,mainboard,CF,repair service,mail
+mail,car,0.32469831958902473,Smartphone,mainboard,CF,repair service,mail
+bicycle,mail,0.2675117083343812,Smartphone,mainboard,CF,repair service,bicycle
+bicycle,bicycle,0.2668943183928405,Smartphone,mainboard,CF,repair service,bicycle
+bicycle,public transportation,0.28246463011829215,Smartphone,mainboard,CF,repair service,bicycle
+bicycle,car,0.32624757354987366,Smartphone,mainboard,CF,repair service,bicycle
+public transportation,mail,0.22414883108980088,Smartphone,mainboard,CF,repair service,public transportation
+public transportation,bicycle,0.22349489202583506,Smartphone,mainboard,CF,repair service,public transportation
+public transportation,public transportation,0.2399869570730706,Smartphone,mainboard,CF,repair service,public transportation
+public transportation,car,0.2863618250760509,Smartphone,mainboard,CF,repair service,public transportation
+car,mail,0.09147294964220354,Smartphone,mainboard,CF,repair service,car
+car,bicycle,0.09070718250450205,Smartphone,mainboard,CF,repair service,car
+car,public transportation,0.1100195040064732,Smartphone,mainboard,CF,repair service,car
+car,car,0.1643247931209586,Smartphone,mainboard,CF,repair service,car
+self service (mail),mail,0.2927444571134372,Smartphone,mainboard,MF,self service,mail
+self service (mail),bicycle,0.29287554431836693,Smartphone,mainboard,MF,self service,mail
+self service (mail),public transportation,0.3047049963211056,Smartphone,mainboard,MF,self service,mail
+self service (mail),car,0.34007681143429425,Smartphone,mainboard,MF,self service,mail
+self service (bicycle),mail,0.29255907644405665,Smartphone,mainboard,MF,self service,bicycle
+self service (bicycle),bicycle,0.2926901980086094,Smartphone,mainboard,MF,self service,bicycle
+self service (bicycle),public transportation,0.30452275066111,Smartphone,mainboard,MF,self service,bicycle
+self service (bicycle),car,0.3399038371767342,Smartphone,mainboard,MF,self service,bicycle
+self service (public transportation),mail,0.27554234988645654,Smartphone,mainboard,MF,self service,public transportation
+self service (public transportation),bicycle,0.2756766254384808,Smartphone,mainboard,MF,self service,public transportation
+self service (public transportation),public transportation,0.28779379735212607,Smartphone,mainboard,MF,self service,public transportation
+self service (public transportation),car,0.3240259376511827,Smartphone,mainboard,MF,self service,public transportation
+self service (car),mail,0.22102042143629985,Smartphone,mainboard,MF,self service,car
+self service (car),bicycle,0.22116480242656322,Smartphone,mainboard,MF,self service,car
+self service (car),public transportation,0.23419390008216245,Smartphone,mainboard,MF,self service,car
+self service (car),car,0.2731528335356176,Smartphone,mainboard,MF,self service,car
+mail,mail,0.43078001327136384,Smartphone,mainboard,MF,repair service,mail
+mail,bicycle,0.4308855160953443,Smartphone,mainboard,MF,repair service,mail
+mail,public transportation,0.44040620572405176,Smartphone,mainboard,MF,repair service,mail
+mail,car,0.4688744790826762,Smartphone,mainboard,MF,repair service,mail
+bicycle,mail,0.4304092519326025,Smartphone,mainboard,MF,repair service,bicycle
+bicycle,bicycle,0.4305148234758289,Smartphone,mainboard,MF,repair service,bicycle
+bicycle,public transportation,0.44004171440406026,Smartphone,mainboard,MF,repair service,bicycle
+bicycle,car,0.46852853056755583,Smartphone,mainboard,MF,repair service,bicycle
+public transportation,mail,0.39637579881740226,Smartphone,mainboard,MF,repair service,public transportation
+public transportation,bicycle,0.39648767833557197,Smartphone,mainboard,MF,repair service,public transportation
+public transportation,public transportation,0.4065838077860926,Smartphone,mainboard,MF,repair service,public transportation
+public transportation,car,0.4367727315164529,Smartphone,mainboard,MF,repair service,public transportation
+car,mail,0.2873319419170889,Smartphone,mainboard,MF,repair service,car
+car,bicycle,0.2874640323117368,Smartphone,mainboard,MF,repair service,car
+car,public transportation,0.29938401324616537,Smartphone,mainboard,MF,repair service,car
+car,car,0.33502652328532256,Smartphone,mainboard,MF,repair service,car

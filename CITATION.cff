@@ -1,0 +1,51 @@
+cff-version: 1.2.0
+message: "If you use these data, please cite the paper below (preferred-citation)."
+type: dataset
+title: "RepairOrReplace_LCE2027_results: Results and figures for 'To repair or replace? Consumer decision pathways and their influence on the environmental assessments of repairing'"
+abstract: >-
+  Results (lifespan factor / environmental break-even point) of 576 repair/replace
+  combinations for a hand blender, a smartphone and a pair of jeans, based on Carbon
+  Footprint and Material Footprint, together with the figures and the life cycle inventory
+  of the sewing machine. The underlying footprints are not included because they are
+  derived from ecoinvent; they are available from the corresponding author on request.
+authors:
+  - family-names: Dietz
+    given-names: Jan-Luis
+    email: jan-luis.dietz@wupperinst.org
+    affiliation: "Wuppertal Institute for Climate, Environment and Energy"
+  - family-names: Bickel
+    given-names: Manuel
+    affiliation: "Wuppertal Institute for Climate, Environment and Energy"
+  - family-names: Speiser-Tochtrop
+    given-names: Christoph
+    affiliation: "Wuppertal Institute for Climate, Environment and Energy"
+  - family-names: Zimmermann
+    given-names: Vita E. M.
+    affiliation: "Wuppertal Institute for Climate, Environment and Energy"
+repository: "https://github.com/therealLuisDietz/RepairOrReplace_LCE2027_results"
+license: CC-BY-NC-4.0
+keywords:
+  - repair
+  - LCA
+  - consumer behaviour
+  - transport
+  - product lifetime extension
+  - circular economy
+preferred-citation:
+  type: conference-paper
+  title: "To repair or replace? Consumer decision pathways and their influence on the environmental assessments of repairing"
+  authors:
+    - family-names: Dietz
+      given-names: Jan-Luis
+    - family-names: Bickel
+      given-names: Manuel
+    - family-names: Speiser-Tochtrop
+      given-names: Christoph
+    - family-names: Zimmermann
+      given-names: Vita E. M.
+  collection-title: "Procedia CIRP"
+  conference:
+    name: "34th CIRP Conference on Life Cycle Engineering (CIRP LCE 2027)"
+  publisher:
+    name: Elsevier
+  year: 2027
